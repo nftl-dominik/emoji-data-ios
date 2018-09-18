@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "36CB322E214FD81B00BA4F0B"
-               BuildableName = "emoji_data_ios.framework"
-               BlueprintName = "emoji-data-ios"
-               ReferencedContainer = "container:emoji-data-ios.xcodeproj">
+               BuildableName = "emojiData.framework"
+               BlueprintName = "emojiData"
+               ReferencedContainer = "container:emojiData.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,9 +46,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "36CB322E214FD81B00BA4F0B"
-            BuildableName = "emoji_data_ios.framework"
-            BlueprintName = "emoji-data-ios"
-            ReferencedContainer = "container:emoji-data-ios.xcodeproj">
+            BuildableName = "emojiData.framework"
+            BlueprintName = "emojiData"
+            ReferencedContainer = "container:emojiData.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -64,9 +64,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "36CB322E214FD81B00BA4F0B"
-            BuildableName = "emoji_data_ios.framework"
-            BlueprintName = "emoji-data-ios"
-            ReferencedContainer = "container:emoji-data-ios.xcodeproj">
+            BuildableName = "emojiData.framework"
+            BlueprintName = "emojiData"
+            ReferencedContainer = "container:emojiData.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		36CB322F214FD81B00BA4F0B /* emoji_data_ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = emoji_data_ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		36CB322F214FD81B00BA4F0B /* emojiData.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = emojiData.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		36CB3232214FD81B00BA4F0B /* emoji_data_ios.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = emoji_data_ios.h; sourceTree = "<group>"; };
 		36CB3233214FD81B00BA4F0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		36CB323B214FD84C00BA4F0B /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
@@ -56,7 +56,7 @@
 		36CB3230214FD81B00BA4F0B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				36CB322F214FD81B00BA4F0B /* emoji_data_ios.framework */,
+				36CB322F214FD81B00BA4F0B /* emojiData.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -109,9 +109,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		36CB322E214FD81B00BA4F0B /* emoji-data-ios */ = {
+		36CB322E214FD81B00BA4F0B /* emojiData */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 36CB3237214FD81B00BA4F0B /* Build configuration list for PBXNativeTarget "emoji-data-ios" */;
+			buildConfigurationList = 36CB3237214FD81B00BA4F0B /* Build configuration list for PBXNativeTarget "emojiData" */;
 			buildPhases = (
 				36CB322A214FD81B00BA4F0B /* Sources */,
 				36CB322B214FD81B00BA4F0B /* Frameworks */,
@@ -122,9 +122,9 @@
 			);
 			dependencies = (
 			);
-			name = "emoji-data-ios";
+			name = emojiData;
 			productName = "emoji-data-ios";
-			productReference = 36CB322F214FD81B00BA4F0B /* emoji_data_ios.framework */;
+			productReference = 36CB322F214FD81B00BA4F0B /* emojiData.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -141,7 +141,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 36CB3229214FD81B00BA4F0B /* Build configuration list for PBXProject "emoji-data-ios" */;
+			buildConfigurationList = 36CB3229214FD81B00BA4F0B /* Build configuration list for PBXProject "emojiData" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -153,7 +153,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				36CB322E214FD81B00BA4F0B /* emoji-data-ios */,
+				36CB322E214FD81B00BA4F0B /* emojiData */,
 			);
 		};
 /* End PBXProject section */
@@ -361,7 +361,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		36CB3229214FD81B00BA4F0B /* Build configuration list for PBXProject "emoji-data-ios" */ = {
+		36CB3229214FD81B00BA4F0B /* Build configuration list for PBXProject "emojiData" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36CB3235214FD81B00BA4F0B /* Debug */,
@@ -370,7 +370,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		36CB3237214FD81B00BA4F0B /* Build configuration list for PBXNativeTarget "emoji-data-ios" */ = {
+		36CB3237214FD81B00BA4F0B /* Build configuration list for PBXNativeTarget "emojiData" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				36CB3238214FD81B00BA4F0B /* Debug */,

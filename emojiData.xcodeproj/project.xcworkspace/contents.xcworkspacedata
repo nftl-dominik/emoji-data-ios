@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:emoji-data-ios.xcodeproj">
+      location = "self:/Users/dmajda/Praca/emoji-data-ios/emojiData.xcodeproj">
    </FileRef>
 </Workspace>
