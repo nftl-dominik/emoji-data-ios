@@ -8,11 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		36CB3234214FD81B00BA4F0B /* emoji_data_ios.h in Headers */ = {isa = PBXBuildFile; fileRef = 36CB3232214FD81B00BA4F0B /* emoji_data_ios.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		36CB3244214FD84C00BA4F0B /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 36CB323B214FD84C00BA4F0B /* .gitkeep */; };
 		36CB3245214FD84C00BA4F0B /* emojilist.json in Resources */ = {isa = PBXBuildFile; fileRef = 36CB323C214FD84C00BA4F0B /* emojilist.json */; };
 		36CB3246214FD84C00BA4F0B /* SkinVariations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CB323E214FD84C00BA4F0B /* SkinVariations.swift */; };
 		36CB3247214FD84C00BA4F0B /* EmojiParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CB323F214FD84C00BA4F0B /* EmojiParser.swift */; };
-		36CB3248214FD84C00BA4F0B /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = 36CB3240214FD84C00BA4F0B /* .gitkeep */; };
 		36CB3249214FD84C00BA4F0B /* EmojiCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CB3241214FD84C00BA4F0B /* EmojiCategory.swift */; };
 		36CB324A214FD84C00BA4F0B /* Emoji.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CB3242214FD84C00BA4F0B /* Emoji.swift */; };
 		36CB324B214FD84C00BA4F0B /* EmojiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36CB3243214FD84C00BA4F0B /* EmojiManager.swift */; };
@@ -163,10 +161,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				36CB3248214FD84C00BA4F0B /* .gitkeep in Resources */,
 				36CB3245214FD84C00BA4F0B /* emojilist.json in Resources */,
 				36CB324D214FD86C00BA4F0B /* emoji-data-cleaner.js in Resources */,
-				36CB3244214FD84C00BA4F0B /* .gitkeep in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
